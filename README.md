@@ -19,7 +19,6 @@
 - 🎓 Microsoft Certified: Azure Data Engineer Associate
 - 🎓Microsoft Certified: Azure Solutions Architect Expert
 - 🎓Microsoft Certified: Azure Fabric Data Engineer Associate
-- 🎓Microsoft Certified: Azure Data Engineer Associate
 - 🎓Microsoft Certified: Implement Data warehouse in Fabric
 
 ---
