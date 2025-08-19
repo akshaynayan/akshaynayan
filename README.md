@@ -1,22 +1,29 @@
-### Hi i am Akshay Nayan
+### Hi 👋, I'm Akshay Nayan
 
+🚀 I am Passionate Data Engineer with over 5 years of experience   
+💡 I love working with modern data & cloud technologies to build scalable, efficient solutions.  
+📚 Always learning and continuously improving my skills to stay up-to-date with the latest in field
 
-I am a passionate Data Engineer with over 5 years of experience turning raw data into meaningful insights. I work with modern tools like Azure Data Factory, Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to build efficient data pipelines and solutions in the cloud. I love learning and continuously improving my skills to stay up-to-date with the latest in the field.
+---
 
+### 🔧 Skills & Tools
+- **Cloud & Data**: Azure, Databricks, Synapse, Delta Lake , Fabric, ADF, Unitycatalog
+- **Programming**: Python, SQL, PySpark  
+- **Databases**: MySQL, PostgreSQL, SQL Server  
+- **Other Tools**: Git, Docker, Airflow, SSIS, SSRS, SSAS, PowerBi
+### 🚀 Skills & Tools
 
-#Certifications
+---
 
-<!--
-**akshaynayan/akshaynayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📜 Certifications
+- 🎓 Microsoft Certified: Azure Data Engineer Associate
+- 🎓Microsoft Certified: Azure Solutions Architect Expert
+- 🎓Microsoft Certified: Azure Fabric Data Engineer Associate
+- 🎓Microsoft Certified: Azure Data Engineer Associate
+- 🎓Microsoft Certified: Implement Data warehouse in Fabric
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/akshay-nayan-0163621a0/)  
+- ⭐️ From [Akshay Nayan](https://github.com/akshaynayan/akshaynayan)
